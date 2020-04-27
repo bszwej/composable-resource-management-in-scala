@@ -1,5 +1,5 @@
 # Composable resource management in Scala
-This is a complementary repository to the following blogpost: 
+This is a complementary repository to the following blog post: https://github.com/bszwej/composable-resource-management-in-scala
 
 ## Running
 Examples can be run with sbt. 
